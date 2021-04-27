@@ -2,3 +2,5 @@ streamlit==0.71.0
 pandas==1.1.4
 researchpy==0.2.3
 seaborn==0.11.1
+numpy==1.19.0
+matplotlib==3.3.2
