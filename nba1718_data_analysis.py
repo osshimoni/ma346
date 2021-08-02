@@ -132,7 +132,7 @@ def main():
         st.title("Home")
 
         # Provide a link to the project reort
-        st.header("Please Read: Link to [Project Report](https://tinyurl.com/oshershimoni-nba-data-report)")
+        st.subheader("Please Read: Link to [Project Report](https://www.scribd.com/document/518485833/Osher-Shimoni-NBA-2017-18-Data-Project-Report)")
         st.write()
         
         # The following code creates a map that displays a point where on a global map where there
