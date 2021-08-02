@@ -131,6 +131,10 @@ def main():
     if option == "Home":
         st.title("Home")
 
+        # Provide a link to the project reort
+        st.subheader("Please Read: Link to [Project Report](https://tinyurl.com/oshershimoni-nba-data-report)")
+        st.write()
+        
         # The following code creates a map that displays a point where on a global map where there
         # exists an NBA team. It uses the teams data which contains longitude and latitude information
         # for each NBA city.
