@@ -142,7 +142,7 @@ def main():
         st.map(teams)
         # The map is displayed on the home page with a red point at the exact longitude and latitude
         # for each team in the NBA.
-
+        st.write("Application by Osher Shimoni")
     # If the user selects the Individual Player Statistics option, they can view an individual player's
     # statistics and compare it to the league average statistics.
     if option == "Individual Player Statistics":
