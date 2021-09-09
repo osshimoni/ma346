@@ -1,10 +1,8 @@
 """
 Osher Shimoni
-Professor Chow - MA 346
 26 April 2021
-Final Project
 
-This project uses data from the NBA 2017-2018 season an analyzes player statistics and salaries
+This project uses data from the NBA 2017-2018 season and analyzes player statistics and salaries.
 """
 
 import numpy as np
